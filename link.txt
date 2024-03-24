@@ -1,0 +1,1 @@
+http://localhost:3000/weather?lon=37.62&lat=55.76&lang=en&temp=c
